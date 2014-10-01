@@ -1,0 +1,25 @@
+description: Just Another Developer
+host: igas.me
+markdown: kramdown
+title: Igas
+url: http://igas.me
+exclude: ['gulpfile.js', 'node_modules', 'src']
+tools:
+  ga: UA-50593886-1
+  google-site-verification: mZn8S0xI9gUi2vt1149e6DIZJSa6w3XfLEOyBMQH03U
+owner:
+  name: Igor Kapkov
+  avatar: http://gravatar.com/avatar/4deabcd4e46af59a4954674673143235?s=200
+  bio: Just another developer from Russia.<br>Dream to emmigrate.<br>Currently getting PhD.<br>Rubyist. Alchemist.<br>Software engineer at Evil Martians.
+  email: igasgeek@me.com
+  facebook:       igasgeek
+  foursquare:     igasgeek
+  github:         igas
+  goodreads:      igas
+  google_plus:    IgorKapkov
+  instagram:      igasgeek
+  lastfm:         igasgeek
+  linkedin:       ikapkov
+  stackoverflow:  861648
+  steam:          igasgeek
+  twitter:        igasgeek
