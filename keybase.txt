@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/igas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://igas.me
+  * I am igas (https://keybase.io/igas) on keybase.
+  * I have a public key with fingerprint E139 A98A 65AC 8A5B 1AEC  6FD4 F813 39F3 3189 125C
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01015ff1710eb6b52112c96dd075b1be5ab95f4ec6f6ae2a7bfed87e3f295a8b089a0a",
+            "fingerprint": "e139a98a65ac8a5b1aec6fd4f81339f33189125c",
+            "host": "keybase.io",
+            "key_id": "f81339f33189125c",
+            "kid": "01015ff1710eb6b52112c96dd075b1be5ab95f4ec6f6ae2a7bfed87e3f295a8b089a0a",
+            "uid": "a5474e5a68d91d09176bf1c8cbb4c219",
+            "username": "igas"
+        },
+        "service": {
+            "hostname": "igas.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1445762785,
+    "expire_in": 157680000,
+    "prev": "182830cecac1e6f5ef7ce301296937138dd7778a8ce65eb39f31f44eb2fca7ea",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.47
+Comment: https://keybase.io/crypto
+
+yMIbAnicrVJbSBVBAL1XK02SCvMBBcL2gPB62dn3XukBhdLDDzOSUrjOzM5eN/Xu
+9e5e08y/HhBEkZU9tMAyIgx6UH1kmiJkSpoSJkqQmKlhRpE96TErBX302fzMzJlz
+zpw5TEd8tCvO/Wz6cs/dqfsP3d1tRyKuHZ5TI1UMMrVKxlfFFJPZiZRoxLL9xYbG
++BgWsEDUdSADliAJiRwAHFYlTWNlEQFERIhUURcIlnQJEg7KSCeaIhNe51QRKohV
+VMhCxsPoRjBAwqGwEbSpLQG8ClUFSiLECqRO0HHQBF0BPK/qPA8UFXAipsIi03IU
+NByCFvEaJsXoxj8b7x/8/5w7MmsHRUEWqEhSNBVorApkCekAKxghAXNAdYgWCQdh
+KaFsIwAtptrDUKTcwMQp1XnFX6deuvIwobBpm9gsoWCRbYd8jsauDDmkPQT5f8v9
+yAhqtD0qKCdhyzCDjA9QJrYNxw8IgihLnKyIHoZUhIww8RsOg4IKS4dzDSmnlkDh
+FJ7FBEMMiKSLRJcx4VnAqZLKy4BXNE2WZQUqmEgiQU6tQBcEgjgdQ5k4ZVikLGgy
+PoHGhAFqaRmBILQjYcJUtz8omONyx7nmzY1yfpUrbv6iP3+t73XMT/Qulq3wZuz9
+ud86D3PN3PVq27H2usT29Ou9jbvRj/Gbd/IT4tzVXb3C8c6DJc9bxKXZMQXrOyLp
+k7bfrs2qaxoZwG/fpOZenOkfzlvbf2m711OQuWtj8vv6GrPTm+Qb/6q1rp5Ja3qy
+les+/SKpTEq90pO5/Jv9ZcXQluYFU7H80MTE4rGu5Pxb2QMbtq680TxVI7gHyLJ7
+CZteMaO9mYemLqRUxqcUfiodrPXn19fsXLf0bFZrX/LnbWz0y0jtsomTq5acODw9
+ubDFPeiDj7g1iTnnfB+0sbR9ed6xj1Hf7adn7IyJgsrA1dHbG7NjGx4XXpNyjjYe
+4KJmhOH0zQ2/ANx4Q/0=
+=z3wC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/igas
+
+==================================================================
